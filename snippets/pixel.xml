@@ -2,7 +2,7 @@
 <manifest>
 
   <remote name="pixel"
-          fetch="https://github.com/PixelExperience-Staging"
+          fetch="https://github.com/Pixel-Experience-BB"
           revision="fourteen"
           review="gerrit-staging.pixelexperience.org" />
 

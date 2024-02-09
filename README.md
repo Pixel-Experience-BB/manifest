@@ -5,7 +5,7 @@
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/PixelExperience-Staging/manifest -b fourteen
+repo init -u https://github.com/Pixel-Experience-BB/manifest -b fourteen
 
 # Sync
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
