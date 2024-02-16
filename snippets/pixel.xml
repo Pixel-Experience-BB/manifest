@@ -6,17 +6,9 @@
           revision="fourteen"
           review="gerrit-staging.pixelexperience.org" />
 
-  <remote name="pixel-wip"
-          fetch="https://github.com/Pixel-Experience-BB"
-          revision="fourteen-wip" />
-
   <remote name="pixel-gitlab"
           fetch="https://gitlab.pixelexperience.org/android"
           revision="fourteen" />
-
-  <remote name="pixel-gitlab-wip"
-          fetch="https://gitlab.pixelexperience.org/android"
-          revision="fourteen-wip" />
 
   <remote name="pixel-devices"
           fetch="https://github.com/PixelExperience-Devices"
